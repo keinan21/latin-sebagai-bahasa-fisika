@@ -140,9 +140,10 @@ border-radius: 3rem;
 
 .gambar {
     border: 5px #345F90 solid;
-    aspect-ratio: 1;
+    width: 100%;
+    height: auto;
     max-width: 400px;
-    max-height: 400px;
+    max-height: 400px ;
 }
 
 .zoom {
